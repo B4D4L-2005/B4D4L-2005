@@ -14,6 +14,10 @@
 - Contribute to **Python Software Foundation (PSF)**
 - Fix "good first issues"
 - Build Python web dashboard
+### 🌍 Open Source Contributions
+- Fixed a documentation typo in the official **CPython** repository:  
+  [Fix typo in module.rst: 'overriden' to 'overridden' (PR #143188)](https://github.com/python/cpython/pull/143188)
+
 
 **Let's contribute together!** 🌟
 📍 Brahmapur, Odisha
