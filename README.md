@@ -1,6 +1,6 @@
 # Hi, I'm B4D4L-2005 👋
 
-**BCA 2nd Year | GSoC 2026 Aspirant | Brahmapur, Odisha**
+**BCA 2nd Year | Brahmapur, Odisha**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
